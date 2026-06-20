@@ -1,0 +1,11 @@
+{
+  "name": "ร้านบ้านไทย 21 — บัญชีร้าน",
+  "short_name": "บ้านไทย 21",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FBF6F1",
+  "theme_color": "#C5283D"
+}
